@@ -36,3 +36,6 @@ nosetests.xml
 
 #virtual env
 venv
+
+# local db
+app.db
