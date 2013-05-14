@@ -39,3 +39,6 @@ venv
 
 # local db
 app.db
+
+# temp
+tmp
